@@ -1,2 +1,3 @@
 # Discord-WebHook-Info
-This tool coded in Python allows you to get from a webhook the ID of the server and of the channel where it is and it allows you to get the webhook's name and profile photo link too. 
+
+This Discord tool allows you to get some information from a Discord webhook, you only have to paste the webhook and it shows you the ID of the channel and that of the server where the webhook is and it also shows you the webhook name and profile image url.
